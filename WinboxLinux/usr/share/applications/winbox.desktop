@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=3.37
+Type=Application
+Terminal=false
+Exec="/usr/bin/winbox.sh"
+Name= Winbox
+Comment=Winbox Mikrotik for Linux
+Categories=Network;
+Icon=/opt/winbox/winbox.png
+Path=/opt/winbox/

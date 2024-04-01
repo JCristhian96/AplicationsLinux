@@ -1,0 +1,1 @@
+/opt/ubnt-discovery/ubnt-discovery.sh

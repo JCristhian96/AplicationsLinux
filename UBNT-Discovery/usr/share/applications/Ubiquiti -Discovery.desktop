@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=2.5.1
+Type=Application
+Terminal=false
+Exec="/usr/bin/ubnt-discovery.sh"
+Name=Ubiquiti Discovery
+Comment=Ubiquiti Discovery for Linux
+Categories=Network;
+Icon=/opt/ubnt-discovery/ubnt-discovery.png
+Path=/opt/ubnt-discovery/
+Name[es_PE]=Ubiquiti -Discovery
